@@ -7,8 +7,9 @@
 - ^ - Up arrow
 - & - And Sign
 - \* - Asterisk symbol
-- ( - Opening Angle Bracket
-- ) - Closing Angle Bracket
+- ( - Opening parenthesis
+- ) - Closing parenthesis
+# Links 
 - [Github Markdown Tutorial](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [W3Schools](https://www.w3schools.com/)
 # Experiments :imp:
