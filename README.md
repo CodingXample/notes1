@@ -12,6 +12,7 @@
 # Links 
 - [Github Markdown Tutorial](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [W3Schools](https://www.w3schools.com/)
+- [CLI commands](docs/cli.md)
 # Experiments :imp:
  - :zzz:
  - :+1:
