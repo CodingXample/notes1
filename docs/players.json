@@ -1,0 +1,26 @@
+[
+    {
+        "name": "James Harden", // string
+        "sports": "Basketball", // string
+        "team": { // object
+            "name": "Clippers",
+            "city": "Los Angeles"
+        }
+    },
+    {
+        "name": "Kyle Lowry", // string
+        "sports": "Basketball", // string
+        "team": { // object
+            "name": "76ers",
+            "city": "Philadelphia"
+        }
+    },
+    {
+        "name": "DeMar DeRozan", // string
+        "sports": "Basketball", // string
+        "team": { // object
+            "name": "Kings",
+            "city": "Sacramento"
+        }
+    }
+]
